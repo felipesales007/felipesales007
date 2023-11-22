@@ -4,20 +4,20 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
 </a>
 
-### Olá <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px" alt="">
+### Bonjour <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px" alt="">
 
-Sou Felipe Sales, desenvolvedor Front-End, com mais de 6 anos de experiência em desenvolvimento web, apaixonado por criar soluções baseadas em minhas experiências.
+Je m'appelle Felipe Sales, développeur Front-End, avec plus de 6 ans d'expérience dans le développement web, passionné par la création de solutions basées sur mes expériences.
 
-- 🌱 Atualmente estou trabalhando com Angular, Vue.js e React.js
-- ⚙️ Eu uso diariamente: `.html`, `.vue`, `.js`, `.css`, `.scss`, `.php`.
-- 💬 Pergunte-me sobre tudo
-- 🎓 Formado em Sistemas de Informação
-- 📚 Pós-graduado em Gestão da Tecnologia da Informação
+- 🌱 Je travaille actuellement avec Angular, Vue.js et React.js
+- ⚙️ Je l'utilise quotidiennement: `.html`, `.vue`, `.js`, `.css`, `.scss`, `.php`.
+- 💬 Demandez-moi tout
+- 🎓 Diplômé en Systèmes d'Information
+- 📚 Postgraduate en gestion des technologies de l'information
 
 <div align="center">
-  <a href="https://www.felipesales.com.br" target="_blank">Portfólio</a>
+  <a href="https://www.felipesales.com.br" target="_blank">Portefeuille</a>
    - 
-  <a href="https://www.zendigital.com.br" target="_blank">Sistema</a>
+  <a href="https://www.zendigital.com.br" target="_blank">Système</a>
 </div>
 <br>
 
