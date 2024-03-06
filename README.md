@@ -6,7 +6,7 @@
 
 ### Bonjour <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px" alt="">
 
-Je m'appelle Felipe Sales, développeur Front-End, avec plus de 6 ans d'expérience dans le développement web, passionné par la création de solutions basées sur mes expériences.
+Je m'appelle Felipe Santos, développeur Front-End, avec plus de 6 ans d'expérience dans le développement web, passionné par la création de solutions basées sur mes expériences.
 
 - 🌱 Je travaille actuellement avec Angular, Vue.js et React.js
 - ⚙️ Je l'utilise quotidiennement: `.html`, `.vue`, `.js`, `.css`, `.scss`, `.php`.
