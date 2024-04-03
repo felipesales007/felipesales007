@@ -6,13 +6,15 @@
 
 ### Bonjour <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px" alt="">
 
-Je m'appelle Felipe Santos, développeur Front-End, avec plus de 6 ans d'expérience dans le développement web, passionné par la création de solutions basées sur mes expériences.
+Je m'appelle Felipe Santos, Développeur Front-End, avec plus de 6 ans d'expérience dans le développement web, passionné par la création de solutions basées sur mes expériences.
 
-- 🌱 Je travaille actuellement avec Angular, Vue.js et React.js
-- ⚙️ Je l'utilise quotidiennement: `.html`, `.vue`, `.js`, `.css`, `.scss`, `.php`.
+- 🌱 Je travaille actuellement avec Angular, Vue.js, React.js et Next.js
+- ⚙️ Je l'utilise quotidiennement: `.html`, `.vue`, `.js`, `.jsx`, `.css`, `.scss`, `.php`.
 - 💬 Demandez-moi tout
+- 👔 Développeur Front-End Senior
 - 🎓 Diplômé en Systèmes d'Information
-- 📚 Postgraduate en gestion des technologies de l'information
+- 👨🏻‍🎓 Postgraduate en gestion des technologies de l'information
+- 📚 Étudiant en langue française
 
 <div align="center">
   <a href="https://www.felipesales.com.br" target="_blank">Portefeuille</a>
@@ -23,7 +25,6 @@ Je m'appelle Felipe Santos, développeur Front-End, avec plus de 6 ans d'expéri
 
 <div align="center">
   <a href=https://github.com/felipesales007>
-  <img src="https://github-readme-stats.vercel.app/api?username=felipesales007&show_icons=true&theme=dark&include_all_commits=true&count_private=false"  height ="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesales007&layout=compact&langs_count=8&theme=dark" height ="180em"/>
 </div>
 
@@ -32,6 +33,7 @@ Je m'appelle Felipe Santos, développeur Front-End, avec plus de 6 ans d'expéri
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" align="center" height="30" width="40" alt="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" align="center" height="30" width="40" alt="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" align="center" height="30" width="40" alt="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" align="center" height="30" width="40" alt="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" height="30" width="40" alt="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" align="center" height="30" width="40" alt="">
