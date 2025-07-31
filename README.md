@@ -58,10 +58,10 @@
 
 ## 🌐 Projets & Démos
 
-- 🎯 **Site personnel** : [felipesales.com.br](https://www.felipesales.com.br ) — Portfolio de projets web
-- 🛠️ **Zen Digital CMS** : [zendigital.com.br](https://www.zendigital.com.br ) Connexion démo : teste@gmail.com / Mot de passe : grandeteste 
-- 🏛️ **Assemblée Législative de Bahia** : [al.ba.gov.br](http://www.al.ba.gov.br )
-- 🎨 **[Tutuok](https://tutuok.vercel.app )** – Page marketing créative
+- 🎯 **Site personnel** : [felipesales.com.br](https://www.felipesales.com.br) — Portfolio de projets web
+- 🛠️ **Zen Digital CMS** : [zendigital.com.br](https://www.zendigital.com.br) Connexion démo : teste@gmail.com / Mot de passe : grandeteste 
+- 🏛️ **Assemblée Législative de Bahia** : [al.ba.gov.br](http://www.al.ba.gov.br)
+- 🎨 **[Tutuok](https://tutuok.vercel.app)** – Page marketing créative
 - 🎬 **[Movie App](https://movie-one-ruddy.vercel.app)** – Interface de films avec API publique
 - 💬 **[WhatsApp UI](https://whatsapp-sable-eta.vercel.app)** – Interface clonée de messagerie
 - 👥 **[Équipe Bravo](https://equipe-bravo.vercel.app)** – Landing page d’équipe
@@ -70,7 +70,7 @@
 ## 🤝 Me contacter
 
 📫 [LinkedIn – Felipe Santos](https://linkedin.com/in/felipesales007)<br>
-🌐 [Mon site](https://www.felipesales.com.br )<br>
+🌐 [Mon site](https://www.felipesales.com.br)<br>
 ✉️ Disponível pour collaborer sur des projets freelance ou missions en CDI/CDD à Paris ou à distance.<br>
 
 Merci pour votre visite ! 🙌
