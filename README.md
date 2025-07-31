@@ -1,34 +1,22 @@
-# Felipe Santos
+# <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="35px" alt=""> Bonjour, je suis Felipe Santos
 
-<a href="https://www.linkedin.com/in/felipesales007" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
-</a>
+**Développeur Front-End** avec plus de 7 ans d'expérience dans la création d'interfaces web dynamiques, modernes et accessibles. J'accorde une grande importance à la **performance**, à l'**expérience utilisateur** et à la **maintenabilité du code**. Mon objectif est de toujours progresser et contribuer à des projets innovants.
 
-### Bonjour <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px" alt="">
+## 👨‍💻 À propos de moi
 
-Je m'appelle Felipe Santos, Développeur Front-End, avec plus de 6 ans d'expérience dans le développement web, passionné par la création de solutions basées sur mes expériences.
-
-- 🌱 Je travaille actuellement avec Angular, Vue.js, React.js et Next.js
-- ⚙️ Je l'utilise quotidiennement: `.html`, `.vue`, `.js`, `.jsx`, `.css`, `.scss`, `.php`.
-- 💬 Demandez-moi tout
-- 👔 Développeur Front-End Senior
 - 🎓 Diplômé en Systèmes d'Information
-- 👨🏻‍🎓 Postgraduate en gestion des technologies de l'information
-- 📚 Étudiant en langue française
+- 🎓 Master en Gestion des Technologies de l’Information
+- 🌍 Actuellement basé à Paris
+- 🌱 Je travaille activement avec **Angular**, **Vue.js**, **React.js** et **Next.js**
+- 💼 Expérience en création de sites web, développement CMS, interfaces admin personnalisées et applications SPA
+- 🧰 Stack technique : HTML, CSS, SCSS, JavaScript, TypeScript, PHP, Laravel, Git, MySQL, SQL Server
+- 🚀 Pratique des méthodes Agile, Scrum, Kanban
+- 🔒 Sécurité : intégration JWT, OAuth2, OpenID Connect
+- 🔍 Focus sur la qualité : tests avec Jest, Vitest, intégration continue via GitLab CI/CD
 
-<div align="center">
-  <a href="https://www.felipesales.com.br" target="_blank">Portefeuille</a>
-   - 
-  <a href="https://www.zendigital.com.br" target="_blank">Système</a>
-</div>
-<br>
+## 🛠️ Compétences techniques
 
-<div align="center">
-  <a href=https://github.com/felipesales007>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesales007&layout=compact&langs_count=8&theme=dark" height ="180em"/>
-</div>
-
-<br>
+<!-- [liste des icônes](https://github.com/devicons/devicon/tree/v2.17.0/icons) -->
 <div align="center" style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" align="center" height="30" width="40" alt="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" align="center" height="30" width="40" alt="">
@@ -41,18 +29,48 @@ Je m'appelle Felipe Santos, Développeur Front-End, avec plus de 6 ans d'expéri
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" height="30" width="40" alt="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" align="center" height="30" width="40" alt="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" align="center" height="30" width="40" alt="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="center" height="30" width="40" alt="">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" align="center" height="30" width="40" alt="">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" align="center" height="30" width="40" alt="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/primeng/primeng-original.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain-wordmark.svg" align="center" height="30" width="40" alt="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" align="center" height="30" width="40" alt="">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" align="center" height="30" width="40" alt="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" height="30" width="40" alt="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" align="center" height="30" width="40" alt="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" align="center" height="30" width="40" alt="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" align="center" height="30" width="40" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" align="center" height="30" width="40" alt="">
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" height ="180em"/>
-</div>
+## 🌐 Projets & Démos
+
+- 🎯 **Site personnel** : [felipesales.com.br](https://www.felipesales.com.br ) — Portfolio de projets web
+- 🛠️ **Zen Digital CMS** : [zendigital.com.br](https://www.zendigital.com.br ) Connexion démo : teste@gmail.com / Mot de passe : grandeteste 
+- 🏛️ **Assemblée Législative de Bahia** : [al.ba.gov.br](http://www.al.ba.gov.br )
+- 🎨 **[Tutuok](https://tutuok.vercel.app )** – Page marketing créative
+- 🎬 **[Movie App](https://movie-one-ruddy.vercel.app)** – Interface de films avec API publique
+- 💬 **[WhatsApp UI](https://whatsapp-sable-eta.vercel.app)** – Interface clonée de messagerie
+- 👥 **[Équipe Bravo](https://equipe-bravo.vercel.app)** – Landing page d’équipe
+- 📱 **[App Template](https://app-template-jet.vercel.app)** – Modèle d’application responsive
+
+## 🤝 Me contacter
+
+📫 [LinkedIn – Felipe Santos](https://linkedin.com/in/felipesales007)<br>
+🌐 [Mon site](https://www.felipesales.com.br )<br>
+✉️ Disponível pour collaborer sur des projets freelance ou missions en CDI/CDD à Paris ou à distance.<br>
+
+Merci pour votre visite ! 🙌
