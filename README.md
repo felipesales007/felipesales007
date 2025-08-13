@@ -1,15 +1,15 @@
 # <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="35px" alt=""> Bonjour, je suis Felipe Santos
 
-**Développeur Front-End** avec plus de 7 ans d'expérience dans la création d'interfaces web dynamiques, modernes et accessibles. J'accorde une grande importance à la **performance**, à l'**expérience utilisateur** et à la **maintenabilité du code**. Mon objectif est de toujours progresser et contribuer à des projets innovants.
+**Développeur FullStack** avec plus de 7 ans d'expérience dans la création d'interfaces web dynamiques, modernes et accessibles. J'accorde une grande importance à la **performance**, à l'**expérience utilisateur** et à la **maintenabilité du code**. Mon objectif est de toujours progresser et contribuer à des projets innovants.
 
 ## 👨‍💻 À propos de moi
 
 - 🎓 Diplômé en Systèmes d'Information
 - 🎓 Master en Gestion des Technologies de l’Information
 - 🌍 Actuellement basé à Paris
-- 🌱 Je travaille activement avec **Angular**, **Vue.js**, **React.js** et **Next.js**
+- 🌱 Je travaille activement avec **Angular**, **Vue.js**, **React.js**, **Next.js**, **Node.js** et **Express**
 - 💼 Expérience en création de sites web, développement CMS, interfaces admin personnalisées et applications SPA
-- 🧰 Stack technique : HTML, CSS, SCSS, JavaScript, TypeScript, Node.js, Express, PHP, Laravel, Git, MySQL, SQL Server, MongoDB
+- 🧰 Stack technique : HTML, CSS, SCSS, JavaScript, TypeScript, PHP, Laravel, Git, MySQL, SQL Server, MongoDB
 - 🚀 Pratique des méthodes Agile, Scrum, Kanban
 - 🔒 Sécurité : intégration JWT, OAuth2, OpenID Connect
 - 🔍 Focus sur la qualité : tests avec Jest, Vitest, intégration continue via GitLab CI/CD
