@@ -1,6 +1,6 @@
 # <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="35px" alt=""> Bonjour, je suis Felipe Santos
 
-**Développeur FullStack** avec plus de 7 ans d'expérience dans la création d'interfaces web dynamiques, modernes et accessibles. J'accorde une grande importance à la **performance**, à l'**expérience utilisateur** et à la **maintenabilité du code**. Mon objectif est de toujours progresser et contribuer à des projets innovants.
+**Développeur** avec plus de 7 ans d'expérience dans la création d'interfaces web dynamiques, modernes et accessibles. J'accorde une grande importance à la **performance**, à l'**expérience utilisateur** et à la **maintenabilité du code**. Mon objectif est de toujours progresser et contribuer à des projets innovants.
 
 ## 👨‍💻 À propos de moi
 
