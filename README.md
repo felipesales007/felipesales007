@@ -9,7 +9,7 @@
 - 🌍 Actuellement basé à Paris
 - 🌱 Je travaille activement avec **Angular**, **Vue.js**, **React.js** et **Next.js**
 - 💼 Expérience en création de sites web, développement CMS, interfaces admin personnalisées et applications SPA
-- 🧰 Stack technique : HTML, CSS, SCSS, JavaScript, TypeScript, PHP, Laravel, Git, MySQL, SQL Server
+- 🧰 Stack technique : HTML, CSS, SCSS, JavaScript, TypeScript, Node.js, Express, PHP, Laravel, Git, MySQL, SQL Server, MongoDB
 - 🚀 Pratique des méthodes Agile, Scrum, Kanban
 - 🔒 Sécurité : intégration JWT, OAuth2, OpenID Connect
 - 🔍 Focus sur la qualité : tests avec Jest, Vitest, intégration continue via GitLab CI/CD
