@@ -7,12 +7,14 @@
 - 🎓 Diplômé en Systèmes d'Information
 - 🎓 Master en Gestion des Technologies de l’Information
 - 🌍 Actuellement basé à Paris
-- 🌱 Je travaille activement avec **Angular**, **Vue.js**, **React.js**, **Next.js**, **Node.js**, **Express**, **Nest.js**  et **Adonis.js**
+- 🌱 Je travaille activement avec **Angular**, **React.js**, **Next.js**, **Vue.js**, **Node.js**, **Express**, **Nest.js** et **Adonis.js**
 - 💼 Expérience en création de sites web, développement CMS, interfaces admin personnalisées et applications SPA
-- 🧰 Stack technique : HTML, CSS, SCSS, JavaScript, TypeScript, PHP, Laravel, Git, MySQL, SQL Server, MongoDB
+- 🧰 Stack technique : HTML, CSS, SCSS, JavaScript, TypeScript, JQuery, PHP, Laravel, Git, MySQL, SQL Server, MongoDB
 - 🚀 Pratique des méthodes Agile, Scrum, Kanban
-- 🔒 Sécurité : intégration JWT, OAuth2, OpenID Connect
-- 🔍 Focus sur la qualité : tests avec Jest, Vitest, intégration continue via GitLab CI/CD
+- 🔒 Sécurité : Intégration JWT, OAuth2, OpenID Connect, Keycloak
+- 🔍 Focus sur la qualité : Tests avec Jest, Vitest, Tests Unitaires, Continuous Delivery (CI/CD)
+- 🔗 APIs : RESTful, Intégration Axios/Fetch, Pagination, Debounce, JSON
+- 🎨 UX / Design : UX/UI Designer, Design Systems, Figma, Gimp
 
 ## 🛠️ Compétences techniques
 
@@ -34,8 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" align="center" height="30" width="40" alt="laravel">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" align="center" height="30" width="40" alt="nodejs">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" align="center" height="30" width="40" alt="express">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" align="center" height="30" width="40" alt="adonisjs">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" align="center" height="30" width="40" alt="nestjs">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" align="center" height="30" width="40" alt="adonisjs">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" align="center" height="30" width="40" alt="nodemon">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" align="center" height="30" width="40" alt="swagger">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" align="center" height="30" width="40" alt="postman">
@@ -65,7 +67,7 @@
 
 <br />
 <sub>
-angular • vue.js • react • next.js • javascript • typescript • jquery • html • css • sass • less • json • php • laravel • node.js • express • adonis.js • nest.js • nodemon • swagger • postman • mysql • sql server • mongodb • mongoose • dbeaver • docker • bootstrap • primeng • chart.js • axios • digital ocean • aws • git • github • gitlab • bitbucket • vscode • jetbrains • phpstorm • jira • confluence • gimp
+angular • vue.js • react • next.js • javascript • typescript • jquery • html • css • sass • less • json • php • laravel • node.js • express • nest.js • adonis.js • nodemon • swagger • postman • mysql • sql server • mongodb • mongoose • dbeaver • docker • bootstrap • primeng • chart.js • axios • digital ocean • aws • git • github • gitlab • bitbucket • vscode • jetbrains • phpstorm • jira • confluence • gimp
 </sub>
 
 ## 🌐 Projets & Démos
