@@ -7,7 +7,7 @@
 - 🎓 Diplômé en Systèmes d'Information
 - 🎓 Master en Gestion des Technologies de l’Information
 - 🌍 Actuellement basé à Paris
-- 🌱 Je travaille activement avec **Angular**, **Vue.js**, **React.js**, **Next.js**, **Node.js** et **Express**
+- 🌱 Je travaille activement avec **Angular**, **Vue.js**, **React.js**, **Next.js**, **Node.js**, **Express**, **Nest.js**  et **Adonis.js**
 - 💼 Expérience en création de sites web, développement CMS, interfaces admin personnalisées et applications SPA
 - 🧰 Stack technique : HTML, CSS, SCSS, JavaScript, TypeScript, PHP, Laravel, Git, MySQL, SQL Server, MongoDB
 - 🚀 Pratique des méthodes Agile, Scrum, Kanban
