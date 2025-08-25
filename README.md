@@ -65,7 +65,7 @@
 
 <br />
 <sub>
-angular • vue.js • react • next.js • javascript • typescript • jquery • html • css • sass • less • json • php • laravel • nodejs • express • adonis.js • nest.js • sql server • swagger • postman • mysql • sql server • mongodb • mongoose • dbeaver • docker • bootstrap • primeng • chartjs • axios • digital ocean • aws • git • github • gitlab • bitbucket • vscode • jetbrains • phpstorm • jira • confluence • gimp
+angular • vue.js • react • next.js • javascript • typescript • jquery • html • css • sass • less • json • php • laravel • node.js • express • adonis.js • nest.js • sql server • swagger • postman • mysql • sql server • mongodb • mongoose • dbeaver • docker • bootstrap • primeng • chart.js • axios • digital ocean • aws • git • github • gitlab • bitbucket • vscode • jetbrains • phpstorm • jira • confluence • gimp
 </sub>
 
 ## 🌐 Projets & Démos
