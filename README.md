@@ -33,14 +33,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="center" height="30" width="40" alt="php">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" align="center" height="30" width="40" alt="laravel">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" align="center" height="30" width="40" alt="nodejs">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" align="center" height="30" width="40" alt="nodejs">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" align="center" height="30" width="40" alt="express">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" align="center" height="30" width="40" alt="adonisjs">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" align="center" height="30" width="40" alt="nestjs">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" align="center" height="30" width="40" alt="sql server">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" align="center" height="30" width="40" alt="swagger">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" align="center" height="30" width="40" alt="postman">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" align="center" height="30" width="40" alt="mysql">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" align="center" height="30" width="40" alt="sql server">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" align="center" height="30" width="40" alt="sql server">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" align="center" height="30" width="40" alt="sql server">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" align="center" height="30" width="40" alt="mongodb">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" align="center" height="30" width="40" alt="mongoose">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" align="center" height="30" width="40" alt="dbeaver">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" align="center" height="30" width="40" alt="docker">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="center" height="30" width="40" alt="bootstrap">
@@ -60,6 +62,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" align="center" height="30" width="40" alt="confluence">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" align="center" height="30" width="40" alt="gimp">
 </div>
+
+<br />
+<sub>
+angular • vue.js • react • next.js • javascript • typescript • jquery • html • css • sass • less • json • php • laravel • nodejs • express • adonis.js • nest.js • sql server • swagger • postman • mysql • sql server • mongodb • mongoose • dbeaver • docker • bootstrap • primeng • chartjs • axios • digital ocean • aws • git • github • gitlab • bitbucket • vscode • jetbrains • phpstorm • jira • confluence • gimp
+</sub>
 
 ## 🌐 Projets & Démos
 
