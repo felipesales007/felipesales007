@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" align="center" height="30" width="40" alt="express">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" align="center" height="30" width="40" alt="adonisjs">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" align="center" height="30" width="40" alt="nestjs">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" align="center" height="30" width="40" alt="sql server">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" align="center" height="30" width="40" alt="nodemon">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" align="center" height="30" width="40" alt="swagger">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" align="center" height="30" width="40" alt="postman">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" align="center" height="30" width="40" alt="mysql">
@@ -65,7 +65,7 @@
 
 <br />
 <sub>
-angular • vue.js • react • next.js • javascript • typescript • jquery • html • css • sass • less • json • php • laravel • node.js • express • adonis.js • nest.js • sql server • swagger • postman • mysql • sql server • mongodb • mongoose • dbeaver • docker • bootstrap • primeng • chart.js • axios • digital ocean • aws • git • github • gitlab • bitbucket • vscode • jetbrains • phpstorm • jira • confluence • gimp
+angular • vue.js • react • next.js • javascript • typescript • jquery • html • css • sass • less • json • php • laravel • node.js • express • adonis.js • nest.js • nodemon • swagger • postman • mysql • sql server • mongodb • mongoose • dbeaver • docker • bootstrap • primeng • chart.js • axios • digital ocean • aws • git • github • gitlab • bitbucket • vscode • jetbrains • phpstorm • jira • confluence • gimp
 </sub>
 
 ## 🌐 Projets & Démos
