@@ -9,7 +9,7 @@
 - 🌍 Actuellement basé à Paris
 - 🌱 Je travaille activement avec **Angular**, **React.js**, **Next.js**, **Vue.js**, **Node.js**, **Express**, **Nest.js** et **Adonis.js**
 - 💼 Expérience en création de sites web, développement CMS, interfaces admin personnalisées et applications SPA
-- 🧰 Stack technique : HTML, CSS, SCSS, JavaScript, TypeScript, JQuery, PHP, Laravel, Git, MySQL, SQL Server, MongoDB
+- 🧰 Stack technique : HTML, CSS, JavaScript, TypeScript, JQuery, PHP, Symfony, Laravel, Git, MySQL, SQL Server, MongoDB
 - 🚀 Pratique des méthodes Agile, Scrum, Kanban
 - 🔒 Sécurité : Intégration JWT, OAuth2, OpenID Connect, Keycloak
 - 🔍 Focus sur la qualité : Tests avec Jest, Vitest, Tests Unitaires, Continuous Delivery (CI/CD)
@@ -33,6 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" align="center" height="30" width="40" alt="less">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" align="center" height="30" width="40" alt="json">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="center" height="30" width="40" alt="php">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" align="center" height="30" width="40" alt="symfony">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" align="center" height="30" width="40" alt="laravel">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" align="center" height="30" width="40" alt="nodejs">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" align="center" height="30" width="40" alt="express">
@@ -67,7 +68,7 @@
 
 <br />
 <sub>
-angular • vue.js • react • next.js • javascript • typescript • jquery • html • css • sass • less • json • php • laravel • node.js • express • nest.js • adonis.js • nodemon • swagger • postman • mysql • sql server • mongodb • mongoose • dbeaver • docker • bootstrap • primeng • chart.js • axios • digital ocean • aws • git • github • gitlab • bitbucket • vscode • jetbrains • phpstorm • jira • confluence • gimp
+angular • vue.js • react • next.js • javascript • typescript • jquery • html • css • sass • less • json • php • symfony • laravel • node.js • express • nest.js • adonis.js • nodemon • swagger • postman • mysql • sql server • mongodb • mongoose • dbeaver • docker • bootstrap • primeng • chart.js • axios • digital ocean • aws • git • github • gitlab • bitbucket • vscode • jetbrains • phpstorm • jira • confluence • gimp
 </sub>
 
 ## 🌐 Projets & Démos
